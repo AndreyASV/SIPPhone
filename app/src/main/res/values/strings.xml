@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SIPPhone</string>
+    <string name="buttonOne">1</string>
+    <string name="buttonTwo">2</string>
+    <string name="buttonThree">3</string>
+    <string name="buttonFour">4</string>
+    <string name="buttonFive">5</string>
+    <string name="buttonSix">6</string>
+    <string name="buttonSeven">7</string>
+    <string name="buttonEight">8</string>
+    <string name="buttonNine">9</string>
+    <string name="buttonZero">0</string>
+    <string name="buttonAsterisk">*</string>
+    <string name="buttonGrille">#</string>
+    <string name="buttonClearText"></string>
+    <string name="callNumberEditText"></string>
+    <string name="action_acc_config">actionAccConfig</string>
+    <string name="action_quit">Quit</string>
+    <string name="etId">Registration ID:</string>
+    <string name="etReg">SIP Reg Server:</string>
+    <string name="etProxy">Proxy:</string>
+    <string name="etUser">User:</string>
+    <string name="etPass">Password:</string>
+    <string name="regStatus">Registration status</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_acc_config" type="id" />
+    <item name="action_quit" type="id" />
+    <item name="checkBoxSubscribe" type="id" />
+</resources>
